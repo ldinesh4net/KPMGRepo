@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPMG_Upload", "KPMG_Upload\KPMG_Upload.csproj", "{80E934A8-0DCD-4A4E-AA23-AF1F6D319902}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPMGTest.Data", "D:\KPMGTest\KPMGTest.Data\KPMGTest.Data.csproj", "{4060330C-CFAF-4725-AFE4-66A8D769B093}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPMGTest.Interface", "D:\KPMGTest\KPMGTest.Interface\KPMGTest.Interface.csproj", "{51E30B1B-86E2-4C4B-8FE8-574926A8B5EE}"
@@ -19,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{80E934A8-0DCD-4A4E-AA23-AF1F6D319902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80E934A8-0DCD-4A4E-AA23-AF1F6D319902}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80E934A8-0DCD-4A4E-AA23-AF1F6D319902}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80E934A8-0DCD-4A4E-AA23-AF1F6D319902}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4060330C-CFAF-4725-AFE4-66A8D769B093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4060330C-CFAF-4725-AFE4-66A8D769B093}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4060330C-CFAF-4725-AFE4-66A8D769B093}.Release|Any CPU.ActiveCfg = Release|Any CPU
